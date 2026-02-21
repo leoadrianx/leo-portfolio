@@ -9,7 +9,7 @@ const FooterComponent: React.FC = () => {
      border-app-bg/10 bg-app-fg/5 text-app-fg/60"
     >
       <p>
-        &copy; {currentYear} {info.name}. All rights reserved.
+        &copy; {currentYear} {info.fullName}. All rights reserved.
       </p>
     </footer>
   );

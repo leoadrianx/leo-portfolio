@@ -1,6 +1,6 @@
 export const info = {
   title: "Leo Adrian | Web Developer",
-  name: "Leo Adrian",
+  fullName: "Leo Adrian",
   headline: "Senior Full-Stack & Web3 Engineer",
   email: "leoadrianx@gmail.com",
   address: "Istanbul, Türkiye",
