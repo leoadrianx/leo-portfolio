@@ -1,7 +1,3 @@
-# Features
+# Deployment
 
-- A user-friendly interface for easy navigation.
-- Responsive design to work on various devices.
-- Includes essential tools and resources for personal development.
-
-**Note:** This portfolio is free to use for anyone interested!
+This portfolio is deployed using [Netlify](https://www.netlify.com/). You can view the example portfolio [here](https://leoadrian.netlify.app/).
